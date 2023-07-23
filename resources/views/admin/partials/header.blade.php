@@ -34,48 +34,6 @@
                     </div>
                 </div>
 
-
-                <div class="dropdown d-none d-md-block">
-                    <button type="button" class="btn header-item waves-effect" data-bs-toggle="dropdown"
-                        aria-haspopup="true" aria-expanded="false">
-                        <img class="flag-img me-2" src="assets/images/flags/us_flag.jpg" alt="Header Language"
-                            height="16"> English <i class="mdi mdi-chevron-down"></i>
-                    </button>
-                    <div class="dropdown-menu dropdown-menu-end">
-
-                        <!-- item-->
-                        <a href="javascript:void(0);" class="dropdown-item notify-item">
-                            <img src="assets/images/flags/germany_flag.jpg" alt="user-image" height="12">
-                            <span class="align-middle"> German </span>
-                        </a>
-
-                        <!-- item-->
-                        <a href="javascript:void(0);" class="dropdown-item notify-item">
-                            <img src="assets/images/flags/italy_flag.jpg" alt="user-image" height="12"> <span
-                                class="align-middle"> Italian </span>
-                        </a>
-
-                        <!-- item-->
-                        <a href="javascript:void(0);" class="dropdown-item notify-item">
-                            <img src="assets/images/flags/french_flag.jpg" alt="user-image" height="12">
-                            <span class="align-middle"> French </span>
-                        </a>
-
-                        <!-- item-->
-                        <a href="javascript:void(0);" class="dropdown-item notify-item">
-                            <img src="assets/images/flags/spain_flag.jpg" alt="user-image" height="12"> <span
-                                class="align-middle"> Spanish </span>
-                        </a>
-
-                        <!-- item-->
-                        <a href="javascript:void(0);" class="dropdown-item notify-item">
-                            <img src="assets/images/flags/russia_flag.jpg" alt="user-image" height="12">
-                            <span class="align-middle"> Russian </span>
-                        </a>
-
-                    </div>
-                </div>
-
                 <div class="dropdown">
                     <button type="button" class="btn header-item toggle-search noti-icon waves-effect"
                         data-target="#search-wrap">
@@ -210,15 +168,6 @@
                         <a class="dropdown-item" href="#"><i
                                 class="dripicons-user font-size-16 align-middle d-inline-block me-1"></i>
                             Profile</a>
-                        <a class="dropdown-item" href="#"><i
-                                class="dripicons-wallet font-size-16 align-middle d-inline-block me-1"></i> My
-                            Wallet</a>
-                        <a class="dropdown-item d-block" href="#"><span
-                                class="badge bg-success float-end">11</span><i
-                                class="dripicons-gear font-size-16 align-middle me-1"></i> Settings</a>
-                        <a class="dropdown-item" href="#"><i
-                                class="dripicons-lock-open font-size-16 align-middle d-inline-block me-1"></i>
-                            Lock screen</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item text-danger" href="#"><i
                                 class="dripicons-power-off font-size-16 align-middle me-1 text-danger"></i>
