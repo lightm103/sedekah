@@ -17,4 +17,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+// Route Dashboard
 Route::view('/dashboard', 'admin.pages.dashboard.index');
+
+// Route Login
+Route::view('/login', 'auth.login');
