@@ -1,5 +1,4 @@
-@extends('admin.partials.main')
-
+@extends('admin.layouts.main')
 
 @section('content')
     <div class="page-content">
